@@ -14,7 +14,7 @@ Built with Python and Tkinter.
 ## Usage
 
 1. **Install Python**  
-   Make sure you have Python 3 installed.
+   Make sure you have Python 3 and tkinter installed.
 
 2. **Run the app**  
    Open a terminal in the project folder and run:
@@ -32,10 +32,6 @@ Built with Python and Tkinter.
 
 All project hour data is saved in `projects.json` in the same folder.
 
-## Screenshots
-
-![Full UI](screenshot_full.png)
-![Compact Mode](screenshot_compact.png)
 
 ## License
 
